@@ -1,16 +1,21 @@
-### Hi there 👋
+# About
 
-<!--
-**NN2000X/nn2000x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shawn (Xiangwen) Zhang, alias NN2000X
 
-Here are some ideas to get you started:
+[E-mail](nn2000x@outlook.com) | [LinkedIn](https://linkedin.com/in/nn2000x) | [GitHub](https://github/nn2000x) | [Instagram](https://instagram.com/nn2000x_ig)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Edu
+
+*University of California, Irvine*  
+MSc in Computer Engineering, Sep 2022 - Dec 2023
+
+*South China University of Technology*  
+BSc in Computer Science, Sep 2018 - Jul 2022
+
+## Exp
+
+*Microsoft*  
+Software Engineer Intern @ iOS Mobile Team, Mar - Jul 2022
+
+*ByteDance*  
+Software Engineer Intern @ Live Stream Dept, Mar - Jul 2021
