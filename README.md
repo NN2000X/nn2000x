@@ -1,21 +1,21 @@
 # About
 
-Shawn (Xiangwen) Zhang, alias NN2000X
+I'm Shawn Zhang, alias NN2000X
 
-[E-mail](nn2000x@outlook.com) | [LinkedIn](https://linkedin.com/in/nn2000x) | [GitHub](https://github/nn2000x) | [Instagram](https://instagram.com/nn2000x_ig)
++1 (949) 686-8727 | <nn2000x@outlook.com> | [GitHub: NN2000X](https://github/nn2000x) | [LinkedIn: Shawn](https://linkedin.com/in/nn2000x)
 
 ## Edu
 
 *University of California, Irvine*  
-MSc in Computer Engineering, Sep 2022 - Dec 2023
+Master's in Computer Engineering, Sep 2022 - Dec 2023
 
 *South China University of Technology*  
-BSc in Computer Science, Sep 2018 - Jul 2022
+Bachelor's in Computer Science, Sep 2018 - Jul 2022
 
 ## Exp
 
 *Microsoft*  
-Software Engineer Intern @ iOS Mobile Team, Mar - Jul 2022
+Software Engineer Intern @ iOS Engineering Team, Mar - Jul 2022
 
 *ByteDance*  
 Software Engineer Intern @ Live Stream Dept, Mar - Jul 2021
