@@ -1,4 +1,4 @@
-# Shawn Zhang
+# Shawn Zhang (alias NN2000X)
 
 +1 (949) 686-8727 | <nn2000x@outlook.com> | [GitHub: NN2000X](https://github/nn2000x) | [LinkedIn: Shawn](https://linkedin.com/in/nn2000x)
 
