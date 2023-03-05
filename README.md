@@ -1,6 +1,6 @@
 # Shawn Zhang (alias NN2000X)
 
-<nn2000x@outlook.com> | [GitHub: NN2000X](https://github.com/nn2000x) | [LinkedIn: Shawn](https://linkedin.com/in/nn2000x)
+<nn2000x@outlook.com> | [GitHub (NN2000X)](https://github.com/nn2000x) | [LinkedIn (Shawn Zhang)](https://linkedin.com/in/nn2000x)
 
 ## Edu
 
