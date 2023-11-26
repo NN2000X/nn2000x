@@ -1,3 +1,3 @@
 # NN2000X
 
-[About](https://github.com/nn2000x/nn2000x/about.md)
+[About](https://github.com/NN2000X/nn2000x/blob/main/about.md)
