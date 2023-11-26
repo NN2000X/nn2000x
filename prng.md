@@ -1,8 +1,4 @@
----
-title: 小话随机数
-permalink: /prng
-layout: post
----
+# 小话随机数
 
 ## 真伪随机数
 
