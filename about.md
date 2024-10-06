@@ -12,7 +12,7 @@ School of Computer Science & Engineering at ***South China University of Technol
 
 ## Experience
 
-Software Engineer
+Software Engineer  
 Windows Engineering System at ***Microsoft***
 
 Software Engineer Intern  
