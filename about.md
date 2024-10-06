@@ -12,6 +12,9 @@ School of Computer Science & Engineering at ***South China University of Technol
 
 ## Experience
 
+Software Engineer
+Windows Engineering System at ***Microsoft***
+
 Software Engineer Intern  
 ERP & CRM Product Development at ***Odoo***
 
